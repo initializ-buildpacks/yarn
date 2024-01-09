@@ -13,8 +13,8 @@ import (
 	"github.com/paketo-buildpacks/packit/v2/postal"
 	"github.com/paketo-buildpacks/packit/v2/sbom"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	"github.com/paketo-buildpacks/yarn"
-	"github.com/paketo-buildpacks/yarn/fakes"
+	"github.com/initializ-buildpacks/yarn"
+	"github.com/initializ-buildpacks/yarn/fakes"
 	"github.com/sclevine/spec"
 
 	//nolint Ignore SA1019, informed usage of deprecated package

@@ -4,12 +4,12 @@ The Yarn CNB provides the [Yarn Package manager](https://yarnpkg.com). The
 buildpack installs `yarn` onto the `$PATH` which makes it available for
 subsequent buildpacks and/or in the final running container. An example of
 buildpack that might use yarn is the [Yarn Install
-CNB](https://github.com/paketo-buildpacks/yarn-install)
+CNB](https://github.com/initializ-buildpacks/yarn-install)
 
 ## Integration
 
 The Yarn CNB provides `yarn` as dependency. Downstream buildpacks, like [Yarn
-Install CNB](https://github.com/paketo-buildpacks/yarn-install) can require the
+Install CNB](https://github.com/initializ-buildpacks/yarn-install) can require the
 `yarn` dependency by generating a [Build Plan
 TOML](https://github.com/buildpacks/spec/blob/master/buildpack.md#build-plan-toml)
 file that looks like the following:

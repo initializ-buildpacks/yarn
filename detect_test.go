@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/paketo-buildpacks/packit/v2"
-	"github.com/paketo-buildpacks/yarn"
+	"github.com/initializ-buildpacks/yarn"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"
