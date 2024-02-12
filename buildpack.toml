@@ -47,6 +47,11 @@ api = "0.7"
     id = "yarn"
     patches = 2
 
+[[stacks]]
+  id = "io.buildpacks.stacks.bionic"
+
+[[stacks]]
+  id = "io.buildpacks.stacks.jammy"
 
 [[stacks]]
   id = "*"
