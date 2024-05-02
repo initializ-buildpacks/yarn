@@ -2,5 +2,5 @@
   "builders": [
     "initializbuildpacks/securepacks-initzbuilder"  ],
     
-  "buildplan": "github.com/ForestEckhardt/build-plan"
+  "buildplan": "github.com/paketo-community/build-plan"
 }
