@@ -1,6 +1,6 @@
 {
   "builders": [
-    "initializbuildpacks/securepacks-initzbuilder"
-  ],
-  "buildplan": "github.com/ForestEckhardt/build-plan"
+    "initializbuildpacks/securepacks-initzbuilder"  ],
+    
+  "buildplan": "github.com/paketo-community/build-plan"
 }
