@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/yarn/retrieval
+module github.com/initializ-buildpacks/yarn/retrieval
 
 go 1.19
 
