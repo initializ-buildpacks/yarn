@@ -1,4 +1,4 @@
-# Initializ Buildpack for Yarn
+# `https://hub.docker.com/r/yarn`
 
 The Yarn CNB provides the [Yarn Package manager](https://yarnpkg.com). The
 buildpack installs `yarn` onto the `$PATH` which makes it available for
