@@ -157,3 +157,5 @@ require (
 replace github.com/CycloneDX/cyclonedx-go v0.8.0 => github.com/CycloneDX/cyclonedx-go v0.7.2
 
 replace github.com/anchore/stereoscope v0.0.1 => github.com/anchore/stereoscope v0.0.0-20230412183729-8602f1afc574
+
+replace github.com/docker/docker v26.1.4+incompatible => github.com/docker/docker v26.1.5+incompatible
