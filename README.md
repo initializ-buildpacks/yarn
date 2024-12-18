@@ -6,7 +6,7 @@ subsequent buildpacks and/or in the final running container. An example of
 buildpack that might use yarn is the [Yarn Install
 CNB](https://github.com/initializ-buildpacks/yarn-install)
 
-## Integration
+## Integration   
 
 The Yarn CNB provides `yarn` as dependency. Downstream buildpacks, like [Yarn
 Install CNB](https://github.com/initializ-buildpacks/yarn-install) can require the
